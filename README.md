@@ -4,7 +4,8 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1. Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systematic application of engineering principles, methodologies, and best practices to the design, development, testing, deployment, and maintenance of software systems. It focuses on creating high-quality, efficient, scalable, and reliable software solutions that meet user and business needs.
 
 Software engineering involves:
@@ -44,7 +45,8 @@ Enables companies to create innovative solutions for everyday problems.
 Enhances software usability, making products more user-friendly.
 Ensures applications meet customer needs through rigorous testing and design.
 
-2. Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
+
 Software engineering has evolved significantly over the decades, shaping how we develop and maintain software systems today. Here are three major milestones in its evolution:
 
 1. The Birth of Software Engineering (1968 - NATO Conference)
@@ -78,7 +80,8 @@ Transformed software development by enabling faster delivery, continuous improve
 Became the standard approach for modern software projects, especially in startups and tech companies.
 
 
-3. List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.
+
 The Software Development Life Cycle (SDLC) is a structured process used to design, develop, test, and deploy high-quality software. It consists of several phases, each with a specific purpose.
 
 1. Planning 📊
@@ -137,7 +140,7 @@ Key Activities:
 ✅ Feature upgrades
 
 
-4. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 A successful software engineering team consists of various roles, each with distinct responsibilities. Here’s an overview of three key roles:
 
@@ -174,7 +177,7 @@ Key Responsibilities:
 ✅ Stakeholder Communication – Keeps clients, executives, and team members informed.
 ✅ Performance Monitoring – Tracks progress using tools like Trello, Asana, or Jira.
 
-5. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in Software Development
 Both IDEs and VCS play a crucial role in improving productivity, efficiency, and collaboration in software development.
@@ -211,7 +214,7 @@ Examples of VCS:
 🔹 Mercurial – A distributed VCS similar to Git, known for its simplicity and efficiency.
 
 
-6. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Software engineers encounter various challenges throughout the development lifecycle. Here are some of the most common ones and strategies to tackle them effectively:
 
 1. Managing Complex Codebases 🏗️
@@ -265,7 +268,8 @@ Strategy:
 
 
 
-7. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Testing is a critical part of the Software Development Life Cycle (SDLC) that ensures software is functional, reliable, and free of defects before release. Here’s an overview of the four main types of testing:
 
 1. Unit Testing 🧩
@@ -340,10 +344,12 @@ Tools:
 🔹 TestRail (test case management)
 🔹 Cucumber (behavior-driven testing)
 
+
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-1. Define prompt engineering and discuss its importance in interacting with AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is the practice of designing and refining input prompts to effectively communicate with AI models like ChatGPT, MidJourney, or DALL·E. It involves structuring queries to elicit accurate, relevant, and high-quality responses from AI systems.
 
 Why Prompt Engineering is Important because of the following:
@@ -371,7 +377,8 @@ Examples of Effective Prompt Engineering
  For Business Applications:
 "Generate a persuasive ad copy for a baby stroller targeting first-time parents."
 
-2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
    Example of a Vague Prompt & Its Improved Version
 🔴 Vague Prompt:
 "Tell me about technology."
